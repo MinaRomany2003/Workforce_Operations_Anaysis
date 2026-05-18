@@ -126,7 +126,7 @@ workforce-italia-dashboard/
 
 ## 🖼️ Preview
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](screenshots/dashboard_overview.png.png)
 
 ---
 
