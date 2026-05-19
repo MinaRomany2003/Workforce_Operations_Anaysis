@@ -134,10 +134,3 @@ workforce-italia-dashboard/
 
 Built as a freelance data analytics project for an Italian operations company.  
 Focused on workforce visibility, cost control, and shift management.
-
----
-
-## 📜 License
-
-This project is for portfolio/demonstration purposes.  
-Data shown is sample/anonymized operational data.
